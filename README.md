@@ -6,7 +6,6 @@ In this assignment, you will create a web application that mimics a "Jack in the
 
 [🔎See the Example Here🔍](https://purple-sand-0cee30710.4.azurestaticapps.net/jack-in-browser/)
 
-*You can find more details about the assignment on Blackboard, including the rubric and hints.*
 
 ## Learning Objectives (From Lesson: JavaScript Part 2 & 3)
 
