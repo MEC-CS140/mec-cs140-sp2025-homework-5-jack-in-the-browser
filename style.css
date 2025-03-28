@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.surprise{
+  
+  background: linear-gradient(137deg, #a258ea, #5bd936, #78a3ec, #9514a3, #eae053);
+  background-size: 1000% 1000%;
+
+  -webkit-animation: GradientSuprise 8s ease infinite;
+  -moz-animation: GradientSuprise 8s ease infinite;
+  animation: GradientSuprise 8s ease infinite;
+}
+
+@-webkit-keyframes GradientSuprise {
+    0%{background-position:0% 68%} 
+    50%{background-position: 100% 33%}
+    100%{background-position: 0% 68%}
+}
+
+@-moz-keyframes GradientSuprise {
+    0%{background-position:0% 68%}
+    50%{background-position:100% 33%}
+    100%{background-position:0% 68%}
+}
+
+@keyframes GradientSuprise { 
+    0%{background-position:0% 68%}
+    50%{background-position:100% 33%}
+    100%{background-position:0% 68%}
+}
